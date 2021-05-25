@@ -1,6 +1,8 @@
 # todo-list
 
-<!-- Projeto em desenvolvimento -->
+<h2>Projeto em desenvolvimento</h2>
+
+<p>---------------------------------</p>
 
 <h3>Tecnologias utilizadas:</h3>
 
